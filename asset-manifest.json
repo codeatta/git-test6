@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/git-test6/static/css/main.5f361e03.chunk.css",
-    "main.js": "/git-test6/static/js/main.1a396427.chunk.js",
-    "main.js.map": "/git-test6/static/js/main.1a396427.chunk.js.map",
+    "main.js": "/git-test6/static/js/main.ef485d69.chunk.js",
+    "main.js.map": "/git-test6/static/js/main.ef485d69.chunk.js.map",
     "runtime-main.js": "/git-test6/static/js/runtime-main.adfeb2ad.js",
     "runtime-main.js.map": "/git-test6/static/js/runtime-main.adfeb2ad.js.map",
     "static/css/2.3747ef43.chunk.css": "/git-test6/static/css/2.3747ef43.chunk.css",
     "static/js/2.4f41e0a7.chunk.js": "/git-test6/static/js/2.4f41e0a7.chunk.js",
     "static/js/2.4f41e0a7.chunk.js.map": "/git-test6/static/js/2.4f41e0a7.chunk.js.map",
     "index.html": "/git-test6/index.html",
-    "precache-manifest.1918d8645bf0f187118910bfbee73e42.js": "/git-test6/precache-manifest.1918d8645bf0f187118910bfbee73e42.js",
+    "precache-manifest.7c5ca0bf1babd4fc359eaf90416f8923.js": "/git-test6/precache-manifest.7c5ca0bf1babd4fc359eaf90416f8923.js",
     "service-worker.js": "/git-test6/service-worker.js",
     "static/css/2.3747ef43.chunk.css.map": "/git-test6/static/css/2.3747ef43.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/git-test6/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3747ef43.chunk.css",
     "static/js/2.4f41e0a7.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1a396427.chunk.js"
+    "static/js/main.ef485d69.chunk.js"
   ]
 }
